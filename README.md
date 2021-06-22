@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nereoloreto
+- 👀 I’m interested in swimminh
+- 🌱 I’m currently learning cs50
